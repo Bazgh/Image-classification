@@ -10,8 +10,16 @@ Our data was collected by taking photos of four different hand gestures includin
   <img src="https://github.com/user-attachments/assets/742404fa-8fa6-4e98-a881-2c2e2fd49301" width="200" />
   <img src="https://github.com/user-attachments/assets/bd25bc74-d1ee-47f9-b109-72e9f2dc55c8" width="200" />
 </p>
-# Models
+
+### Models
 1. CNN (Convolutional Neural Network)
-   Trying to design different layers to extract the features related to each class, so that after training it could classify some new images as (validation set),  we did not reach accuracy of more than 28% even with a complex layers and regularization methods. Thus, the small size of our dataset makes such strong DL architecture useless.
+   We attempted to design a CNN architecture with various layers aiming at extracting features unique to each class. However, The small size of dataset made even such a strong DL architecture crap at accuracy 28%.
+  ## Pre-trained Models
+1. YOLO
+   YOLO is a Model designed for object detection. It is basically a CNN architecture which detects rectangular boxes within an image. so instead of assigning probabilities to each class, it assigns probabilities to the grids each being a candidate as an object boundary. we use these low to middle features- so called pre trained model to make our algorithm powerful to at least detect the objects and seperate them from back ground.
+   The result is an accuracy of 100 precent. However, class Peace Sign is not recognized by this model.
+   Below we can see is the result on one validation batch.
+   ![image](https://github.com/user-attachments/assets/6115637c-a65d-4624-9cf1-15c65182023f)
+ 
 
 
