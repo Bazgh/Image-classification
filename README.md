@@ -19,7 +19,10 @@ Our data was collected by taking photos of four different hand gestures includin
    YOLO is a Model designed for object detection. It is basically a CNN architecture which detects rectangular boxes within an image. so instead of assigning probabilities to each class, it assigns probabilities to the grids each being a candidate as an object boundary. we use these low to middle features- so called pre trained model to make our algorithm powerful to at least detect the objects and seperate them from back ground.
    The result is an accuracy of 100 precent. However, class Peace Sign is not recognized by this model.
    Below we can see is the result on one validation batch.
-   ![image](https://github.com/user-attachments/assets/6115637c-a65d-4624-9cf1-15c65182023f)
+   
+   <p align="center">
+  <img src="[https://github.com/user-attachments/assets/7bb2465f-766c-4484-aebb-7855207283c9](https://github.com/user-attachments/assets/6115637c-a65d-4624-9cf1-15c65182023f)" width="200" />
+</p>
  
 
 
