@@ -3,7 +3,7 @@ Image classification
 ### Project description
 In this Project, we tried pre-trained models such as Yolo and Resnet to classify a dataset of 577 images. although data size is small, these two models do a perfect job on classifying images into four categories.
 ### dataset 
-Our data was collected by taking photos of four different hand gestures including, Peace Sign, Thumbs Up, Fist, and Open Palm
+Our data was collected by taking photos of four different hand gestures including Fist, Open Palm,Peace Sign,Thums Up
 <p align="center">
   <img src="https://github.com/user-attachments/assets/11ade7b0-4f78-4c1a-bfae-19fe04cc10a7" width="200" />
   <img src="https://github.com/user-attachments/assets/7bb2465f-766c-4484-aebb-7855207283c9" width="200" />
