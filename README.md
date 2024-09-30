@@ -21,7 +21,7 @@ Our data was collected by taking photos of four different hand gestures includin
    Below we can see is the result on one validation batch.
    
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/6115637c-a65d-4624-9cf1-15c65182023f" width="200" />
+  <img src="https://github.com/user-attachments/assets/6115637c-a65d-4624-9cf1-15c65182023f" width="600" />
 </p>
  
 
