@@ -24,8 +24,16 @@ Our data was collected by taking photos of four different hand gestures includin
   <img src="https://github.com/user-attachments/assets/6115637c-a65d-4624-9cf1-15c65182023f" width="600" />
 </p>
 
-2. RESNET
-![ResNet Predictions](https://raw.githubusercontent.com/Bazgh/Image-classification/main/resnet_predictions.png)
-![ResNet Predictions](https://raw.githubusercontent.com/Bazgh/Image-classification/main/cnn_predictions.png)
+## 2. RESNET Result
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Bazgh/Image-classification/main/resnet_predictions.png" alt="ResNet Predictions" width="600"/>
+</div>
+
+## Customed CNN Result
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Bazgh/Image-classification/main/cnn_predictions.png" alt="CNN Predictions" width="600"/>
+</div>
 
 
